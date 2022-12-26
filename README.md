@@ -1,5 +1,7 @@
+<h1 align="center">Hi 👋, I'm Vivian Stephen</h1>
 
-<img align="right" alt="Coding" width="450" src="https://media1.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif"><h1 align="center">Hi 👋, I'm Vivian Stephen</h1>
+<img align="right" alt="Coding" width="450" src="https://media1.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif">
+
 <h3 align="center">A passionate Java developer based in Lagos, Nigeria</h3>
 
 <br>
