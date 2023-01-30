@@ -7,7 +7,7 @@
 <br>
 
 
-- 🌱 I’m currently learning **Springboot,Microservices**
+- 🌱 I’m currently learning **Microservices, kubernetes, aws, azure**
 
 - 💬 Ask me about **Java, Spring, Springboot**
 
